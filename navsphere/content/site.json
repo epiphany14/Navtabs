@@ -5,8 +5,8 @@
     "keywords": "新探智能工具"
   },
   "appearance": {
-    "logo": "/assets/images/alogo.png",
-    "favicon": "/assets/images/favicon.png",
+    "logo": "/assets/images/xtlogo.png",
+    "favicon": "/assets/images/xtlogo.png",
     "theme": "system"
   },
   "navigation": {
